@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>socks_icon_1.png</file>
+        <file>qt.conf</file>
+        <file>images.jpg</file>
+    </qresource>
+</RCC>
